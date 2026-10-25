@@ -37,10 +37,10 @@ Each detection will include its search logic, test procedure, observed results a
 ## Current progress
 
 - [x] Ubuntu VM booted and basic resources checked
-- [ ] Splunk installed and accessible
-- [ ] Windows VM created
+- [x] Splunk installed and accessible
+- [x] Windows VM created (DC01 from AD Homelab)
 - [ ] Sysmon installed and verified
-- [ ] Windows logs arriving in Splunk
+- [x] Windows logs arriving in Splunk
 - [ ] Three detections tested
 - [ ] Incident reports completed
 - [ ] Final screenshots and investigation evidence added
@@ -51,6 +51,3 @@ This is a local learning lab using controlled test activity. Detection results w
 
 No real company logs, credentials or sensitive data will be published.
 
-## Lessons learned
-
-I'll update this section as I work through the setup, troubleshoot issues and test the detections.
